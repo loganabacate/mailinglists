@@ -98,7 +98,7 @@ Buying any email list comes with risks if it’s not properly vetted. Common pro
 
 * **How do I avoid spam traps when using purchased contacts?** Use a reputable, **verified list provider** (they scrub out traps) and warm up your email domain slowly. Also maintain good list hygiene (remove hard bounces, honor unsubscribes). Following these steps will minimize the risk of hitting traps or being blacklisted.
 
-## **Quick-Answer Snippets**
+## **Quick-Answer**
 
 * **Where to buy a verified B2B list?** Reputable data vendors like LeadsBlue sell verified, industry-specific B2B email lists.
 
